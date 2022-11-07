@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Rooveloftcodes, you may know me as Shaunak Ghosh
 - 👀 I’m interested in Java, front-end web design and game development.
 - 🌱 I’m currently learning web design, game development.
-- 📫 You can reach me on twitter and email me at ghosh.shaunak@outlook.com
+- 📫 You can reach me at ghosh.shaunak@outlook.com
